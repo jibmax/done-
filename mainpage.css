@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background: lawngreen;
+    margin: 0;
+    padding: 0;
+}
+
+h1, p {
+    margin: 0;
+}
+
+#header {
+    background: lime;
+    font-family: Architects Daughter;
+    font-size: 1.2em
+    
+    
+}
+#sideBarLeft {
+    background: mediumspringgreen;
+    width: 10em;
+    float: left;
+    text-align: center;
+    outline-color: lime;
+    outline-style: solid
+}
+
+#maincontent  {
+    background: palegreen;
+    padding:0 15em 0 10em;
+    margin-left: 1em;
+    margin-right: 1em
+}
+
+#sideBarRight {
+    background: springgreen;
+    width: 15em;
+    float: right;
+    outline-color: lime;
+    outline-style: solid
+}
+
+#footer {
+    background: chartreuse;
+    clear: both;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#procon {
+    line-height: 2em
+}
+#procon2 {
+    text-align: right
+}
+#bruce {
+    font-size: 0.8em
+}
